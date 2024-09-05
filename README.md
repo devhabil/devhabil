@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Innovative, Adaptive, and Collaborative. These three words define me. As a fresh graduate from the Informatics and Business Institute (IBI) Darmajaya, I have a strong interest in backend development and software engineering. I am highly enthusiastic about learning more about software engineering, driven by a passion for coding and problem-solving. With a solid understanding of backend programming languages such as JavaScript, I have been directly involved in various software projects. The thrill of seeing my code work successfully and the program running smoothly motivates me to ensure my code is always reliable and efficient. I am dedicated to continuous training and striving to be the best in this field.
+I graduated with a Bachelor's Degree in Informatics Engineering from the Darmajaya Information and Business Institute (IBI) in 2023, and I am passionate about Software Engineering. During my academic career, I participated in the Student Mobility program at Nantong Vocational University (NTVU) in China. I am enthusiastic about advancing my knowledge in Software Engineering, with a particular interest in backend programming languages. Currently, I am a Java Developer Trainee at SYNRGY Academy Batch 7 Powered by BCA, where I am honing my skills in backend development, especially in Java programming.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [mhabilarifin1414@gmail.com](mailto:mhabilarifin1414@gmail.com)
