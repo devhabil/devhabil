@@ -8,7 +8,7 @@ I graduated with a Bachelor's Degree in Informatics Engineering from the Darmaja
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [mhabilarifin1414@gmail.com](mailto:mhabilarifin1414@gmail.com)
-* 🧠  I'm learning JavaScript, Java, Springboot
+* 🧠  I'm learning Golang, Springboot
 * 🤝  I'm open to collaborating on Other project
 
 ### Skills
