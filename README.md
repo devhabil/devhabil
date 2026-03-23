@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Backend Developer
 -----------------
-
-Backend Developer transitioning from Java to Go 🐹. Building scalable APIs with Fiber & Gin. Currently exploring Cloud & Cybersecurity concepts
+Saya adalah seorang Backend Developer yang berfokus pada membangun sistem yang efisien, skalabel, dan handal. Saat ini saya sedang mendalami arsitektur microservices dan optimasi database.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [mhabilarifin1414@gmail.com](mailto:mhabilarifin1414@gmail.com)
