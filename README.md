@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Habil Arifin</h1>
-  <h3>Junior Backend Developer</h3>
+  <h3>Java Developer</h3>
   <p>Saya adalah seorang Backend Developer yang berfokus pada membangun sistem yang efisien, skalabel, dan handal. Saat ini saya sedang mendalami arsitektur microservices dan optimasi database.</p>
 
   <p>
